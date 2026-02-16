@@ -1,0 +1,2 @@
+KEY = b"2025koen"
+suffix = b"2025_koen_ctf_is_running!"
